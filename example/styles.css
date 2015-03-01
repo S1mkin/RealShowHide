@@ -1,0 +1,13 @@
+.ShowElement {
+	cursor: pointer;
+	color: #456;
+	border-bottom: 1px dashed;
+}
+
+#block-1, #block-2 {
+	padding: 10px;
+	border: 1px solid #888;
+	background-color: #cde;
+	margin: 5px 0;
+	width: 200px;
+}
