@@ -4,7 +4,7 @@
 	border-bottom: 1px dashed;
 }
 
-.show-block {
+.show-block, #block-3 {
 	padding: 10px;
 	border: 1px solid #888;
 	background-color: #cde;

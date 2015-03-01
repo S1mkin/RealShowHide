@@ -9,8 +9,8 @@
     }, options);
 
   	this.click(function(e){
-  		var block = $(e.target).data(settings['dataName']);
-      if (block==undefined) return;
+      var block = $(e.target).data(settings['dataName']);
+      if (block===undefined) return;
       $(block).slideToggle(settings['speed']);
   		return;
   	});
